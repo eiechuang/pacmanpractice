@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/erichuang/Documents/dev/See/pacmanpractice",
+      "program": "/Users/erichuang/Documents/dev/See/pacmanpractice/build/Debug/outDebug"
+    }
+  ]
+}
