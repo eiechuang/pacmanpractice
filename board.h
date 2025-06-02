@@ -7,6 +7,8 @@
 #define pacman 'C'
 #define wall 'X'
 #define empty ' '
+#define ghost 'P'
+
 
 extern char gameboard[height][width];
 

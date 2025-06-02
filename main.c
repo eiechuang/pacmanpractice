@@ -17,6 +17,7 @@ int main(void) {
         getchar(); // flush newline
 
         move_pacman(move);
+        move_ghosts();
     }
 
     fprintf("Game Over! Final Score: %d\n", score, stdout);

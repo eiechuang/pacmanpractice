@@ -26,7 +26,7 @@ void board(void) {
 
         gameboard[y][x] = wall;
     }
-
+ 
     // Place pacman down in default
     gameboard[wherepacmany][wherepacmanx] = pacman;
 }
